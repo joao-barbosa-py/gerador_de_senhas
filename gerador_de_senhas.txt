@@ -1,0 +1,4 @@
+Um programa de interface gráfica que deve ser capaz de:
+#Armazenar o site/software para o qual a senha será gerado
+#Armazenar o usuário e o Email
+#Possibilitar a configuração do tamanho da senha!
